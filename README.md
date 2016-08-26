@@ -1,5 +1,5 @@
-# text_encriptor
-A simple, joke-intended plain text encriptor
+# text_encryptor
+A simple, joke-intended plain text encryptor
 
 Do not take this too seriously. Not inteded for actual use. Educational purposes only.
 
